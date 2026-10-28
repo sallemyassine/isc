@@ -1,8 +1,7 @@
-# ISC — Intelligent ??????? ????
+# ISC — Intelligent 
 
 Welcome to the **Intelligent Systems Club (ISC)** at ISIMS!
 
 ## Members
 
-- ???
-- ???
+- yassine sallem
